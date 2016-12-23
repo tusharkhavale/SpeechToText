@@ -58,6 +58,7 @@
      <Compile Include="Assets\SpeechToText\Scripts\SpeechToTextServices\StreamingSpeechToTextService.cs" />
      <Compile Include="Assets\SpeechToText\Scripts\SpeechToTextWidgets\SpeechToTextComparisonWidget.cs" />
      <Compile Include="Assets\SpeechToText\Scripts\SpeechToTextWidgets\SpeechToTextServiceWidget.cs" />
+     <Compile Include="Assets\SpeechToText\Scripts\TestScript.cs" />
      <Compile Include="Assets\SpeechToText\Scripts\Utilities\AudioRecordingManager.cs" />
      <Compile Include="Assets\SpeechToText\Scripts\Utilities\DebugFlag.cs" />
      <Compile Include="Assets\SpeechToText\Scripts\Utilities\Globals.cs" />
@@ -90,9 +91,6 @@
      <None Include="Assets\StreamingAssets\GoogleStreamingSpeechToTextProgram\Google.Apis.Auth.xml" />
      <None Include="Assets\StreamingAssets\GoogleStreamingSpeechToTextProgram\Google.Protobuf.xml" />
      <None Include="Assets\StreamingAssets\GoogleStreamingSpeechToTextProgram\Grpc.Auth.xml" />
- <Reference Include="UnityEngine.Advertisements">
- <HintPath>C:/Program Files/Unity5_4_1/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
- </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity5_4_1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
@@ -107,9 +105,6 @@
  </Reference>
  <Reference Include="UnityEngine.HoloLens">
  <HintPath>C:/Program Files/Unity5_4_1/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Purchasing">
- <HintPath>C:/Program Files/Unity5_4_1/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.VR">
  <HintPath>C:/Program Files/Unity5_4_1/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
